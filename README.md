@@ -1,25 +1,54 @@
+<!DOCTYPE html>
 <html>
 <head>
-	<title> TERCERO DE INFORMATICA </title>
-	<a href="https://github.com/Greenwolf07/george0.git"></a>
-	<link rel="stylesheet" type="text/css" href="style.css">
+
+<title>  Tercero Informatica   </title>
+<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
-  <body>
+<nav>
+	<ul>
+		<li>Inicio</li>
+		<li>Contacto</li>
+	</ul>
+</nav>
+<body>
+	
+</body>
+    <center>
+    	<h1>Pasos para crear una cuanta en Github</h1>
+    	<h2>Primeros Pasos</h2>
+    	<p>Ingresar a la pagina de <a href="https://github.com/">GITHUB</a></p>
+    	<img src="https://gigaom.com/wp-content/uploads/sites/1/2012/05/github-logo.jpg?w=100" width="300px"><br>
 
-<center>
+	 <h2>Crear Cuenta</h2>
+	 <p>ingresar nombre de ususrio, correo, clave</p>
+	 <img src="https://kumaweb-d.com/wp/wp-content/uploads/2016/11/01.jpg" width="600"><br>
 
-  	<h1>titulo 1 de progamacion</h1>
+	 <p>Dar clic en registrarse a GITHUB</p>
+	 <h2>Verificar Imagenes</h2>
+	 <p>Debemos orientar correctamente la figura que nos sale en la pagina para crear la cuenta</p>
+	<img src="https://juansemarquez.github.io/sitioescuela/img/github/02.png" width="590">
+	<p>Terminado la orientacion damos clic en seleccionar el Plan</p>
+	<h2>Seleccionar el Plan</h2>
+	<img src="https://www.toolsqa.com/wp-content/gallery/git/subscription_github.png" width="500px">
 
-  	<h2>titulo 2 de progamacion</h2>
+	<h2>Luego  selecciona las preguntas </h2>
+	 
+	 <img src="https://hanolisite.files.wordpress.com/2019/09/cuentagithubimagen7.png?w=645" width="700"><br>
 
-  	<h3>titulo 3 de progamacion</h3>
+<h2>Verificar en tu cuenta  </h2>
+<p>Despues de a ver creado tu cuenta te pide una verificacion en tu correo</p>
+<img src="https://nicelydone.club/wp-content/uploads/2016/08/nicelydone-github-sign-up-3.jpeg"  width="800px"><br>
 
-  	<p>tarea <b>HTML</b>agregar un video y compartir el enlace </p>
-  	
-  	<iframe width="560" height="315" src="https://youtu.be/P1v1KcARj-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h2>crear un nuevo repositorio  </h2>
+<p>depues de de a ver verificado tu cuenta create un repositoreio para almacenar  nuestro codigo  </p>
+<img src="https://guides.github.com/activities/hello-world/create-new-repo.png"  width="800px"><br>
 
-  	</center>
 
-  </body>
+
+        </center>
+     
+   </body>
+
 </html>
